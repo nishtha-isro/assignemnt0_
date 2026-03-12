@@ -10,4 +10,6 @@ https://chatgpt.com/share/69af9350-ff38-800d-94d8-13a92d2df86f
 
 Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce035d-7882-8e6e-8000-0000914dbe1d    int. ques
 
-Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce039b-dbb2-85e8-8000-000007584725
+Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce039b-dbb2-85e8-8000-000007584725  coding + maths
+
+Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce03bb-2e32-8f42-8000-0000f58343f4 only mixed int questions
