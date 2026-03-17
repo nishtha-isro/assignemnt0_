@@ -14,3 +14,7 @@ Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/
 
 Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce03bb-2e32-8f42-8000-0000f58343f4 only mixed int questions
 Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19ce0481-a7d2-81f8-8000-00007711a726
+
+
+Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19cf9f2d-87b2-85b1-8000-0000edca8aeb (FINAL QUESTIONS)
+https://chatgpt.com/share/69b8cdfa-6618-800d-a018-1ebd974f025c docker save -o airflow-stack.tar $(docker compose images -q)
