@@ -18,3 +18,9 @@ Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/
 
 Click the link to view conversation with Kimi AI Assistant https://www.kimi.com/share/19cf9f2d-87b2-85b1-8000-0000edca8aeb (FINAL QUESTIONS)
 https://chatgpt.com/share/69b8cdfa-6618-800d-a018-1ebd974f025c docker save -o airflow-stack.tar $(docker compose images -q)
+
+Details of Work Experience (if any)
+Details of Co-curricular and Extracurricular Activities
+Details of Research
+
+Publications Authored / Edited/ Co-Joined/ Conferences Attended (IF ANY) Please list in reverse chronological (Specify Publication Name, Publisher, Date of Publication, Publication Type)
